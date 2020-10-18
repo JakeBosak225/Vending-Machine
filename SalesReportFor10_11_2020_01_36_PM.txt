@@ -1,0 +1,19 @@
+Potato Crisps| 1
+Stackers| 0
+Grain Waves| 0
+Cloud Popcorn| 0
+Moonpie| 0
+Cowtales| 2
+Wonka Bar| 0
+Crunchie| 0
+Cola| 1
+Dr. Salt| 0
+Mountain Melter| 0
+Heavy| 0
+U-Chews| 0
+Little League Chew| 0
+Chiclets| 0
+Triplemint| 2
+
+---------------------------
+Total Sales: $8.8
